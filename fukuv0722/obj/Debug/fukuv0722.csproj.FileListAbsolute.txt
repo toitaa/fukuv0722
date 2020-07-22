@@ -1,1 +1,9 @@
 C:\Users\student\Documents\toira\fukuv0722\fukuv0722\bin\Debug\fukuv0722.exe.config
+C:\Users\student\Documents\toira\fukuv0722\fukuv0722\bin\Debug\fukuv0722.exe
+C:\Users\student\Documents\toira\fukuv0722\fukuv0722\bin\Debug\fukuv0722.pdb
+C:\Users\student\Documents\toira\fukuv0722\fukuv0722\obj\Debug\fukuv0722.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\toira\fukuv0722\fukuv0722\obj\Debug\fukuv0722.Form1.resources
+C:\Users\student\Documents\toira\fukuv0722\fukuv0722\obj\Debug\fukuv0722.Properties.Resources.resources
+C:\Users\student\Documents\toira\fukuv0722\fukuv0722\obj\Debug\fukuv0722.csproj.GenerateResource.Cache
+C:\Users\student\Documents\toira\fukuv0722\fukuv0722\obj\Debug\fukuv0722.exe
+C:\Users\student\Documents\toira\fukuv0722\fukuv0722\obj\Debug\fukuv0722.pdb
